@@ -5,15 +5,22 @@ This is a template repository used to quickly bootstrap MERN applications.
 ### Default Technologies
 
 #### Client Side
-- React (bootstrapped from `create-react-app`)
-- Styled Components
-- React Router
-- Typescript support (generally not recommend for client)
+
+![ReactJS](https://img.shields.io/badge/Framework-React%20JS-lightblue)
+
+![Styled Components](https://img.shields.io/badge/Styling-styled--components-ff69b4)
+
+![React Router](https://img.shields.io/badge/Routing-react--router-orange)
+
+![TS Support](https://img.shields.io/badge/Optional%20Support-TypeScript%20-blue)
 
 #### Server Side
-- Express (bootstrapped from `express-generator`)
-- Babel ES6 modules (using `import / export` instead of `require()` and `module.exports`)
-- Typescript support
+
+![ReactJS](https://img.shields.io/badge/Framework-Express%20JS-green)
+
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-darkgreen)
+
+![TS Support](https://img.shields.io/badge/Optional%20Support-TypeScript%20-blue)
 
 ### Compatability Notes:
 - n/a
