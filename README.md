@@ -1,8 +1,6 @@
-# Opinionated MERN Template
+# Opinionated MERN Template (JS)
 
 This is a template repository used to quickly bootstrap MERN applications.
-
-[![Linter](https://github.com/Ray-F/mern-template/actions/workflows/Linter.yml/badge.svg?branch=master)](https://github.com/Ray-F/mern-template/actions/workflows/Linter.yml)
 
 ### Default Technologies
 
