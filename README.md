@@ -16,7 +16,7 @@ This is a template repository used to quickly bootstrap MERN applications.
 
 #### Server Side
 
-![ReactJS](https://img.shields.io/badge/Framework-Express%20JS-green)
+![ExpressJS](https://img.shields.io/badge/Framework-Express%20JS-green)
 
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-darkgreen)
 
