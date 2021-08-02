@@ -1,3 +1,5 @@
+[WIP]
+
 # Opinionated MERN Template (JS)
 
 This is a template repository used to quickly bootstrap MERN applications.
